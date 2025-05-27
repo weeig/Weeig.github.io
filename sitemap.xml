@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>http://weeig.github.io.com/tags/index.html</loc>
     
     <lastmod>2025-05-26</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>http://weeig.github.io.com/categories/index.html</loc>
     
     <lastmod>2025-05-26</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
+    <loc>http://weeig.github.io.com/about/index.html</loc>
     
     <lastmod>2025-05-26</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2025/05/26/hello-world/</loc>
+    <loc>http://weeig.github.io.com/2025/05/26/hello-world/</loc>
     
     <lastmod>2025-05-26</lastmod>
     
@@ -39,7 +39,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>http://weeig.github.io.com/</loc>
     <lastmod>2025-05-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
